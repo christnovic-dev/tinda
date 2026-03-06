@@ -91,9 +91,10 @@ New features and improvements will continue to be added as the platform evolves.
 
 **IR 1**
 ----
-**CHRISTNOVIC**
+**👨🏻‍💻 CHRISTNOVIC**
 ----
 **IR 2**
 ----
-**DIEGO MPIANA**
+**👨🏻‍💻 DIEGO MPIANA**
+----
 
