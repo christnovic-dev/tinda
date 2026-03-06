@@ -89,7 +89,11 @@ New features and improvements will continue to be added as the platform evolves.
 
 **Built with passion to improve commerce in Africa**
 
-**CHRISTNOVIC - FLUTTER**
+**IR 1**
 ----
-**DIEGO MPIANA - LARAVEL**
+**CHRISTNOVIC**
+----
+**IR 2**
+----
+**DIEGO MPIANA**
 
