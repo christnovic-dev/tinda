@@ -1,4 +1,4 @@
-# 🛒 TindaExpress
+# 🛒 TindaExpress 2026
 
 **Cross-border eCommerce platform connecting China and the Democratic Republic of Congo**
 
